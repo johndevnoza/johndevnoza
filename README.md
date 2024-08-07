@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently learning **Framer motion, Electron**
 
-- 👨‍💻 All of my projects are available at [ioane-portfolio-webiste.vercel.app](https://ioane-portfolio-webiste.vercel.app)
+- 👨‍💻 Check out my personal Website at [ioane-portfolio-webiste.vercel.app](https://ioane-portfolio-webiste.vercel.app)
 
 ---
 
