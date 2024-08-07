@@ -36,12 +36,12 @@
 
 <!-- To add a single large horizontal image, use the following structure: -->
 <p align="center">
-  <img src="https://your-image-url.com/your-image.jpg" alt="Your Art Showcase" width="100%">
+  <img src="https://your-image-url.com/your-image.jpg" alt="Artworks ll be added soon!" width="100%">
 </p>
 
 <!-- You can add more images or a gallery like this: -->
 <p align="center">
-  <img src="https://your-image-url.com/image1.jpg" alt="Artwork 1" width="30%">
-  <img src="https://your-image-url.com/image2.jpg" alt="Artwork 2" width="30%">
-  <img src="https://your-image-url.com/image3.jpg" alt="Artwork 3" width="30%">
+  <img src="https://your-image-url.com/image1.jpg" alt="Artworks ll be added soon!" width="30%">
+  <img src="https://your-image-url.com/image2.jpg" alt="Artworks ll be added soon!" width="30%">
+  <img src="https://your-image-url.com/image3.jpg" alt="Artworks ll be added soon!" width="30%">
 </p>
