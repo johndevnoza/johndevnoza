@@ -51,8 +51,9 @@
 ---
 🖼️ 3D Animations, Sculpting, After Effects
 <!-- You can add more images or a gallery like this: -->
+<p align="center">
 <img src="https://github.com/user-attachments/assets/9cb8c1ac-4477-4301-b9fb-3b780c41aa2a" width="45%"/>
 <img src="https://github.com/user-attachments/assets/97ce8249-e900-4275-8ce7-2dca3639ed0a" width="45%"/>
 <img src="https://github.com/user-attachments/assets/4dcaf48a-bdc6-400b-92d4-6ed50470ebc1" width="45%"/>
 <img src="https://github.com/user-attachments/assets/c5112fc4-78d3-47c0-b0b3-570ee746d1aa" width="45%"/>
-
+</p>
