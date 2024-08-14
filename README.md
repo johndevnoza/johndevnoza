@@ -35,13 +35,24 @@
 <p>This diverse artistic background enhances my approach to frontend development, allowing me to create visually appealing and user-friendly interfaces.</p>
 
 <!-- To add a single large horizontal image, use the following structure: -->
+---
+🖼️ 3D Artworks
 <p align="center">
-  <img src="https://your-image-url.com/your-image.jpg" alt="Artworks ll be added soon!" width="100%">
+  <img src="https://github.com/johndevnoza/johndevnoza/blob/main/Gallery/3D.jpg?raw=true" alt="Artworks ll be added soon!" width="80%">
 </p>
 
-<!-- You can add more images or a gallery like this: -->
+---
+
+🎨 2D Digital Illustration
 <p align="center">
-  <img src="https://your-image-url.com/image1.jpg" alt="Artworks ll be added soon!" width="30%">
-  <img src="https://your-image-url.com/image2.jpg" alt="Artworks ll be added soon!" width="30%">
-  <img src="https://your-image-url.com/image3.jpg" alt="Artworks ll be added soon!" width="30%">
+  <img src="https://github.com/johndevnoza/johndevnoza/blob/main/Gallery/2D%20digital%20illustrations.jpg?raw=true" alt="Artworks ll be added soon!" width="80%">
 </p>
+
+---
+🖼️ 3D Animations, Sculpting, After Effects
+<!-- You can add more images or a gallery like this: -->
+<img src="https://github.com/user-attachments/assets/9cb8c1ac-4477-4301-b9fb-3b780c41aa2a" width="45%"/>
+<img src="https://github.com/user-attachments/assets/97ce8249-e900-4275-8ce7-2dca3639ed0a" width="45%"/>
+<img src="https://github.com/user-attachments/assets/4dcaf48a-bdc6-400b-92d4-6ed50470ebc1" width="45%"/>
+<img src="https://github.com/user-attachments/assets/c5112fc4-78d3-47c0-b0b3-570ee746d1aa" width="45%"/>
+
