@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on an "All-in-One" website called "AIO" that provides a collection of everyday web tools
 
-- 🌱 I'm currently learning **Framer motion, Electron**
+- 🌱 I'm currently learning **NodeJs, Express, Fullstack**
 
 - 👨‍💻 Check out my personal Website at [ioane-portfolio-webiste.vercel.app](https://io-devnoza.vercel.app/skills)
 
